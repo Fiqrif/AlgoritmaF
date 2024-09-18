@@ -28,6 +28,7 @@ float vbola(float r=82, float phi=3.14){
 float vsetbola (){
 	return ((1/2)*(4/3)*3.14*82*82*82);
 }
+//halo
 
 int main (){
 	//cout <<volume;
